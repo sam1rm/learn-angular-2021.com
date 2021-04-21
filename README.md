@@ -8,7 +8,7 @@ Of course, you are always free to use a replacement. Some are referrenced in the
 
 
 ## Glossary of other tools equally viable to [learn angular in 2021](learn-angular-2021.com)
-* [Webstorm] (https://www.jetbrains.com/webstorm/)
+* [Webstorm](https://www.jetbrains.com/webstorm/)
 
 
 ## Extra for Experts
