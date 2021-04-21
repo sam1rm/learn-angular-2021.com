@@ -1,21 +1,17 @@
-## Index / Table of Contents
+# Card Expansion Effect
 
-1. [Hello World Angular App](https://learn-angular-2021.com/t1)
-2. [TBA](https://learn-angular-2021/t2)
+A morphing card expansion effect enhanced by a low poly background animation, using SVG clipPath and Trianglify.
 
-## Resources Referenced in Tutorials on [Learn Angular 2021](learn-angular-2021.com)?
-Of course, you are always free to use a replacement. Some are referrenced in the glossary below.
+[Article on Codrops](http://tympanus.net/codrops/?p=24222)
 
-* [MacOSBigSur](https://www.apple.com/macos/big-sur/)
-* [Iterm2](https://iterm2.com)
-* [Sublime Text Editor](https://www.sublimetext.com)
+[Demo](http://tympanus.net/Development/CardExpansion/)
+
+## License
+
+Created by Claudio Calautti for Codrops. Released under the [GNU GPL license v3](https://www.gnu.org/licenses/gpl-3.0.html).
+
+Follow us: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/pages/Codrops/159107397912), [Google+](https://plus.google.com/101095823814290637419), [GitHub](https://github.com/codrops), [Pinterest](http://www.pinterest.com/codrops/)
+
+[© Codrops 2015](http://www.codrops.com)
 
 
-
-## Glossary of other tools equally viable to [learn angular in 2021](learn-angular-2021.com)
-* [Webstorm](https://www.jetbrains.com/webstorm/)
-
-
-## Extra for Experts
-Like the bash CLI in the Gif-tutorials on learn-angular-2021.com? An extras plus more referenced here
-* [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) [Open Source!]
